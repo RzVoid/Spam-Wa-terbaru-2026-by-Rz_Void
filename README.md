@@ -1,7 +1,11 @@
-1.install module
+$ pkg install python
 
-2.jalankan dengan node wa.js
+$ pkg install git
 
-3.ikuti perintah yang ada di termux
+$ python3 -m pip install requests
 
-4.selamat menikmati
+$ git clone https://github.com/RzVoid/Spam-Wa-terbaru-2026-by-Rz_Void/edit/main/README.md
+
+$ cd SpamWa
+
+$ node wa.js
